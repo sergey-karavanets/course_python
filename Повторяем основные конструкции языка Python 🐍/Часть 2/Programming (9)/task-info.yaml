@@ -1,0 +1,29 @@
+type: code
+custom_name: Programming
+files:
+- name: task.py
+  visible: true
+  text: '# put your python code here'
+  learner_created: false
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 8. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    6
+    222anton456
+    a1n1t1o1n1
+    0000a0000n00t00000o000000n
+    gylfole
+    richard
+    ant0n
+    Correct output:
+    1 2 3
+
+    Your code output:
+    1
+  time: Sun, 28 Aug 2022 14:45:29 UTC
+record: -1

@@ -1,0 +1,14 @@
+type: code
+custom_name: Programming
+files:
+- name: task.py
+  visible: true
+  text: words = ['Plum', 'Grapefruit', 'apple', 'orange', 'pomegranate', 'Cranberry',
+    'lime', 'Lemon', 'grapes', 'persimmon', 'tangerine', 'Watermelon', 'currant',
+    'Almond']
+  learner_created: false
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 05 Sep 2022 05:12:40 UTC
+record: -1

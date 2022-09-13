@@ -1,0 +1,15 @@
+type: code
+custom_name: Programming
+files:
+- name: task.py
+  visible: true
+  text: files = ['python.png', 'qwerty.py', 'stepik.png', 'beegeek.org', 'windows.pnp',
+    'pen.txt', 'phone.py', 'book.txT', 'board.pNg', 'keyBoard.jpg', 'Python.PNg',
+    'apple.jpeg', 'png.png', 'input.tXt', 'split.pop', 'solution.Py', 'stepik.org',
+    'kotlin.ko', 'github.git']
+  learner_created: false
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 05 Sep 2022 07:09:30 UTC
+record: -1

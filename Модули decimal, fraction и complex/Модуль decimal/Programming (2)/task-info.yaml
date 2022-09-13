@@ -1,0 +1,14 @@
+type: code
+custom_name: Programming
+files:
+- name: task.py
+  visible: true
+  text: |-
+    from decimal import *
+    num = Decimal(input())
+  learner_created: false
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 09 Sep 2022 06:02:33 UTC
+record: -1

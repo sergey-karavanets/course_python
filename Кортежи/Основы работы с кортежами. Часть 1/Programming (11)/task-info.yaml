@@ -1,0 +1,13 @@
+type: code
+custom_name: Programming
+files:
+- name: task.py
+  visible: true
+  text: "tuples = [(), (), ('',), ('a', 'b'), (), ('a', 'b', 'c'), (1,), (), (), ('d',),\
+    \ ('', ''), ()]\nnon_empty_tuples = \n\nprint(non_empty_tuples)"
+  learner_created: false
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 01 Sep 2022 12:03:12 UTC
+record: -1

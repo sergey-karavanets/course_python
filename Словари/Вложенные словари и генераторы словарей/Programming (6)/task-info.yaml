@@ -1,0 +1,15 @@
+type: code
+custom_name: Programming
+files:
+- name: task.py
+  visible: true
+  text: |-
+    words = ['hello', 'bye', 'yes', 'no', 'python', 'apple', 'maybe', 'stepik', 'beegeek']
+
+    result = {}
+  learner_created: false
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 07 Sep 2022 05:29:38 UTC
+record: -1

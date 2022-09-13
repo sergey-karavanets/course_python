@@ -1,0 +1,14 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    import random
+
+    n = int(input())    # количество попыток
+  learner_created: false
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 07 Sep 2022 10:50:13 UTC
+record: -1

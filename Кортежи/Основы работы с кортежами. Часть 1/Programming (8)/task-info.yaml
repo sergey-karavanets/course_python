@@ -1,0 +1,13 @@
+type: code
+custom_name: Programming
+files:
+- name: task.py
+  visible: true
+  text: "countries = ('Russia', 'Argentina', 'Spain', 'Slovakia', 'Canada', 'Slovenia',\
+    \ 'Italy', 'Spain', 'Ukraine', 'Chile', 'Spain', 'Cameroon')\nnumber = \nprint(number)"
+  learner_created: false
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 01 Sep 2022 11:56:57 UTC
+record: -1

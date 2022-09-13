@@ -1,0 +1,17 @@
+type: code
+custom_name: Programming
+files:
+- name: task.py
+  visible: true
+  text: |-
+    numbers1 = (1, 2, 3)
+    numbers2 = (6,)
+    numbers3 = (7, 8, 9, 10, 11, 12, 13)
+
+    print()
+  learner_created: false
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 01 Sep 2022 11:58:02 UTC
+record: -1

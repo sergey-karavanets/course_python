@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: мультитон
+- text: декоратор
+- text: прототип
+- text: наблюдатель
+- text: адаптер
+- text: синглтон
+files:
+- name: task.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+status: Unchecked
+record: -1
+local_check: false
