@@ -5,9 +5,9 @@ words = ['racecar', 'akinremi', 'deed', 'temidayo', 'omoseun', 'civic', 'TATTARR
 numbers = [4, 6, 9, 23, 5]
 
 # Исправьте этот код
-map_result = list(map(lambda num: num, floats))
-filter_result = list(filter(lambda name: name, words))
-reduce_result = reduce(lambda num1, num2: num1 + num2, numbers, 0)
+map_result = list(map(lambda num: round(num ** 2, 1), floats))
+filter_result = list(filter(lambda name: name == name[::-1] and len(name) > 4, words))
+reduce_result = reduce(lambda num1, num2: num1 * num2, numbers, 1)
 
 print(map_result)
 print(filter_result)
