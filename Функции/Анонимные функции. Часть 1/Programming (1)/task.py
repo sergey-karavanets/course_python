@@ -20,3 +20,10 @@ data = [['Tokyo', 35676000, 'primary'],
         ['Moscow', 10452000, 'primary'],
         ['Istanbul', 10061000, 'admin'],
         ['Paris', 9904000, 'primary']]
+
+lagest_city = sorted(filter(lambda x: x[1] > 10000000 and x[2] == 'primary', data))
+print('Cities: ', end='')
+for city, amount, b in lagest_city:
+        print(city, end='')
+        if city != lagest_city[-1][0]:
+                print(', ', end='')
