@@ -8,5 +8,8 @@ files:
     'страна', 'мир', 'случай', 'голова', 'ребенок', 'сила', 'конец', 'вид', 'система',
     'часть', 'город', 'отношение', 'женщина', 'деньги']
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 14 Sep 2022 05:18:57 UTC
 record: -1
