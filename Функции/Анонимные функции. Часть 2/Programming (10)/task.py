@@ -1,1 +1,1 @@
-# put your python code here
+print(*list(map(lambda x: 255 - int(x), input().split())))
