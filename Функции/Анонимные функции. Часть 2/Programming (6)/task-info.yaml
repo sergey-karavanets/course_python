@@ -9,5 +9,8 @@ files:
     (7705281, 'Washington'), (7151502, 'Arizona'), (7029917, 'Massachusetts'), (6910840,
     'Tennessee')]
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 14 Sep 2022 05:16:35 UTC
 record: -1
