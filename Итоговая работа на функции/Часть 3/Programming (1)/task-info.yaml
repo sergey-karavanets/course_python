@@ -7,5 +7,8 @@ files:
     def product_of_odds(data):
         pass
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 15 Sep 2022 04:57:18 UTC
 record: -1
