@@ -1,1 +1,2 @@
-# put your python code here
+for _ in range(int(input())):
+    temp = input()
