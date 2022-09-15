@@ -6,5 +6,8 @@ files:
     def generate_letter(mail, name, date, time, place, teacher, number):
         pass
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 15 Sep 2022 03:56:28 UTC
 record: -1
