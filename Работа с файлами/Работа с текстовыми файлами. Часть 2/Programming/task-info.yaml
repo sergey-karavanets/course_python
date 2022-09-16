@@ -3,5 +3,8 @@ files:
 - name: task.py
   visible: true
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 16 Sep 2022 04:00:15 UTC
 record: -1
