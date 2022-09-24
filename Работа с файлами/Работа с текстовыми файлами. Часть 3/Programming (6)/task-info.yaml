@@ -5,5 +5,14 @@ files:
   visible: true
   text: '# put your python code here'
   learner_created: false
-status: Unchecked
+- name: logfile.txt
+  visible: true
+  learner_created: true
+- name: output.txt
+  visible: true
+  learner_created: true
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 24 Sep 2022 06:44:31 UTC
 record: -1
