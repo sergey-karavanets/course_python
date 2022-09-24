@@ -4,5 +4,11 @@ files:
 - name: task.py
   visible: true
   learner_created: false
-status: Unchecked
+- name: data.csv
+  visible: true
+  learner_created: true
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 16 Sep 2022 08:42:05 UTC
 record: -1
